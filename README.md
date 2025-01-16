@@ -1,16 +1,14 @@
-## End to End Data Pipeline based on Neurodiversity in the Workplace
+## ETL Pipeline using Autism Dataset
 
-Project Theme: Neurodivergent Friendly Workplace Practises
+Project Theme: 
 
-About the Project: 
+Building an ETL Pipeline to clean, transform and analyse the autism screening dataset. The final output will include: 
+ - A cleaned and enriched dataset
+ - Basic insights visualised (e.g.trends in autism spectrum disorder likelihood based on demographics.)
+ - Actionable results displayed (e.g. top features influencing ASD classification.)
 
-Building a Pipeline to extract, transform and analyse data to identify trends or recommendations for inclusive workplaces. 
-
-The end result displays a dashboard highlighting actionable insights. 
-
-Data Sources:
-
-**to be updated** 
+Data Source: Autism Screening (August 2024)
+Link: https://www.kaggle.com/datasets/umeradnaan/autism-screening 
 
 Architecture Design: 
 
